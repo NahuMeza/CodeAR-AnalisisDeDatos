@@ -1,3 +1,4 @@
+import matplotlib.pyplot as plt
 # Ejercicio 1 – Gráfico de Líneas básico
 # Crea un gráfico de líneas que muestre la evolución de la temperatura durante 5 días.
 
@@ -17,3 +18,9 @@
 # Producto B: 80 ventas
 
 # Producto C: 30 ventas
+
+# Ventas = [50, 30, 80]
+# Productos = ['A', 'C', 'B']
+
+# plt.bar(Productos, Ventas, color='blue')
+# plt.show()

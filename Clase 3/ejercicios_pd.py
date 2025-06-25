@@ -1,3 +1,5 @@
+import pandas as pd
+
 # Ejercicio 1 – Crear un DataFrame
 # Crea un DataFrame con la siguiente información de personas:
 
