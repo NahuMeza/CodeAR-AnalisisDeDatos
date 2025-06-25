@@ -1,0 +1,14 @@
+Nombre,Edad,Ciudad
+Ana,23,Nueva York
+Luis,34,Toronto
+Sofía,29,San Salvador
+Camila,23,Tucuman
+
+librerias python: panda, matplotlib
+
+dict = {
+    'Nombre': ['Ana', 'Luis', 'Sofía', 'Camila'], 
+    'Edad': [23, 34, 29, 23],
+    'Ciudad9: ["Nueva York", ...]
+}
+
