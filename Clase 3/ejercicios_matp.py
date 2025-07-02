@@ -8,6 +8,14 @@ import matplotlib.pyplot as plt
 
 # Agrega título y etiquetas a los ejes.
 
+dias = [1,2,3,4,5]
+temperaturas = [22,24,20,23,25]
+
+plt.plot(dias, temperaturas)
+plt.title("EVOLUCION DE TEMPERATURAS CHUI Q FRIO")
+plt.xlabel("dias")
+plt.ylabel("temperaturas")
+plt.show()
 
 
 # Ejercicio 2 – Gráfico de Barras
