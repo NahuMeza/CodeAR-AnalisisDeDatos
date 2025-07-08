@@ -5,14 +5,8 @@ dict = {
 }
 
 def imprimir_personas(dict):
-    # for dato in dict:
-    #     if dato == "Nombre":
-    #         for nombre in dict[dato]:
-    #             print(nombre)
-
     for nombre in dict["Nombre"]:
         print(nombre)
-        
     return None
 
 def imprimir_edades(dict):
